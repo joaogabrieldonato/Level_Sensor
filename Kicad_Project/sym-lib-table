@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "New_Library")(type "KiCad")(uri "/home/mangue_baja_eln/Área de Trabalho/João Gabriel/Kicad/Placa dos mobral/Libs/New_Library.kicad_sym")(options "")(descr ""))
-  (lib (name "New_Library_1")(type "KiCad")(uri "/home/mangue_baja_eln/Área de Trabalho/João Gabriel/Kicad/esquematico/New_Library_1.kicad_sym")(options "")(descr ""))
-)

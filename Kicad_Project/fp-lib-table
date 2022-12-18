@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "Footprints")(type "KiCad")(uri "/home/mangue_baja_eln/Área de Trabalho/João Gabriel/Kicad/Footprints")(options "")(descr ""))
-  (lib (name "Library")(type "KiCad")(uri "/home/mangue_baja_eln/Área de Trabalho/João Gabriel/Kicad/Footprints/Library.pretty")(options "")(descr ""))
-)
